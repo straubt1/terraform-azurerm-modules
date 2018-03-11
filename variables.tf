@@ -13,7 +13,7 @@ variable "os" {
 }
 
 variable "count" {
-  default     = 1
+  default     = 2
   type        = "string"
   description = "The number of VMs to deploy"
 }
